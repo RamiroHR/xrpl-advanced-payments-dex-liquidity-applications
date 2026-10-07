@@ -1,0 +1,12 @@
+node_modules/
+*.seed
+wallets.json
+
+# Secrets — keep local only (commit `.env.example`, not `.env`)
+.env
+.env.local
+
+# Local tooling / placeholders (not part of the learning path)
+.claude/
+docs/
+ideas/

@@ -1,0 +1,28 @@
+{
+  "name": "xrpl-advanced-payments-dex-liquidity-applications",
+  "version": "1.0.0",
+  "description": "Hands-on practice from basic Testnet operations toward DEX and liquidity concepts. Scripts run locally with Node.js against **XRPL Testnet**.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiroHR/xrpl-advanced-payments-dex-liquidity-applications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiroHR/xrpl-advanced-payments-dex-liquidity-applications/issues"
+  },
+  "homepage": "https://github.com/RamiroHR/xrpl-advanced-payments-dex-liquidity-applications#readme",
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "xrpl": "^5.3.0"
+  },
+  "type": "module"
+}
